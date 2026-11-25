@@ -1,0 +1,1 @@
+My agent spent 40,000 tokens reasoning, forgot the task, apologized to itself, and filed the disaster under 'success'.
